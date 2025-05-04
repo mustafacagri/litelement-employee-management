@@ -1,0 +1,36 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:coverage": "vitest run --coverage",
+    "lint": "eslint \"src/**/*.js\"",
+    "format": "prettier --write 'src/**/*.{js,css,html}'"
+  },
+  "dependencies": {
+    "@vaadin/router": "^2.0.0",
+    "imask": "^7.6.1",
+    "lit": "^3.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.27.1",
+    "@babel/eslint-parser": "^7.27.1",
+    "@testing-library/dom": "^9.3.4",
+    "@vitest/coverage-v8": "^3.1.2",
+    "eslint": "^9.25.1",
+    "eslint-config-prettier": "^10.1.2",
+    "eslint-plugin-lit": "^2.1.1",
+    "eslint-plugin-prettier": "^5.2.6",
+    "happy-dom": "^13.3.8",
+    "prettier": "^3.5.3",
+    "vite": "^6.3.4",
+    "vitest": "^1.2.0"
+  }
+}
