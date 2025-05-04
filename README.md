@@ -1,4 +1,4 @@
-# 🚀 Employee Management App
+# 🚀 LitElement Employee Management App
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Status](https://img.shields.io/badge/status-stable-green)
@@ -25,6 +25,10 @@ A modern, responsive employee management application built with LitElement and W
 - **Module Bundling** with [Vite](https://vitejs.dev/)
 - **Testing** with Web Test Runner
 - **CSS Custom Properties** for theming
+
+## 🎥 Demo Video
+
+https://github.com/user-attachments/assets/d2e9532b-51b4-48bb-9936-0a6ea6ed830f
 
 ## 🚦 Getting Started
 
