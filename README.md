@@ -30,6 +30,10 @@ A modern, responsive employee management application built with LitElement and W
 
 https://github.com/user-attachments/assets/d2e9532b-51b4-48bb-9936-0a6ea6ed830f
 
+## 🎬 Live Demo
+
+👉  [https://litelement-employee-management.web.app](https://litelement-employee-management.web.app/)
+
 ## 🚦 Getting Started
 
 ### Prerequisites
